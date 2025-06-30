@@ -1,3 +1,5 @@
+![Banner](https://github.com/Salman0452/Salman0452/blob/main/banner2.png)
+
 # 👋 Hey, I'm Salman — Future AI & Data Engineer
 
 I'm a 7th semester Software Engineering student with a passion for building real-world data projects using Python, Pandas, and visualization tools.  
