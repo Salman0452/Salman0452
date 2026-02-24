@@ -1,6 +1,6 @@
 # Salman Ahmad — AI Engineer
 
-Final-year CS student at The Superior University, Lahore. I build LLM-powered applications, RAG systems, and AI agent workflows. Currently transitioning from full-stack and data science into production-ready AI engineering.
+Final-year SE student at The Superior University, Lahore. I build LLM-powered applications, RAG systems, and AI agent workflows. Currently transitioning from full-stack and data science into production-ready AI engineering.
 
 I document everything publicly — every project I ship goes here.
 
@@ -31,15 +31,15 @@ I document everything publicly — every project I ship goes here.
 
 ## Featured Projects
 
-### [Smart Document Q&A Chatbot](https://github.com/Salman0452)
+### [Smart Document Q&A Chatbot](https://github.com/Salman0452/pdf-chatbot.git)
 AI chatbot that ingests PDF documents and answers natural language questions using RAG architecture.
 Stack: Python · LangChain · OpenAI API · ChromaDB · Streamlit
 
-### [Fitness App with 3D Avatar — FYP](https://github.com/Salman0452)
+### [Fitness App with 3D Avatar — FYP](https://github.com/Salman0452/fyp-genzfit-frontend.git)
 Flutter fitness application with real-time 3D avatar rendering using SMPL body modelling.
 Stack: Flutter · Firebase · Dart · SMPL
 
-### [E-Commerce Platform](https://github.com/Salman0452)
+### [E-Commerce Platform](https://github.com/Salman0452/nextjs-commerce.git)
 Full-stack e-commerce web application with product management, cart, and authentication.
 Stack: Next.js · NestJS · PostgreSQL
 
@@ -55,7 +55,7 @@ Stack: Python · Pandas · Matplotlib · Seaborn · Scikit-learn
   <a href="https://www.linkedin.com/in/salman-ahmad-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/sa26122612">
+  <a href="https://x.com/deltasols">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:deltasols.tech@gmail.com">
