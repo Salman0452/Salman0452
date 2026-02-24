@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Salman — Future AI & Data Engineer
 
-I'm a 7th semester Software Engineering student with a passion for building real-world data projects using Python, Pandas, and visualization tools.  
+I'm a 8th semester Software Engineering student with a passion for building real-world data projects using Python, Pandas, and visualization tools.  
 Currently on a journey to master data analysis by solving one project per day and building a public portfolio.
 
 ## 🚀 What I'm Doing Now:
